@@ -1,0 +1,2 @@
+LAB = attacklab
+COURSECODE = 15213-f23
